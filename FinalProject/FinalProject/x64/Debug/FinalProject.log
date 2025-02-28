@@ -1,0 +1,27 @@
+﻿  AlternateMoveCard.cpp
+  Card.cpp
+  MoneyCard.cpp
+  MoveCard.cpp
+  SpecialCard.cpp
+  Tile.cpp
+Y:\FinalProject\Tile.cpp(72,1): error C2471: cannot update program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  CardTile.cpp
+Y:\FinalProject\CardTile.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  CornerTile.cpp
+Y:\FinalProject\CornerTile.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  FinalProjectMonopolyApp.cpp
+Y:\FinalProject\FinalProjectMonopolyApp.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  Railroad.cpp
+Y:\FinalProject\Railroad.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  Street.cpp
+Y:\FinalProject\Street.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  TaxTile.cpp
+Y:\FinalProject\TaxTile.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  TitleDeed.cpp
+Y:\FinalProject\TitleDeed.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  User.cpp
+Y:\FinalProject\User.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  UtilitiesTile.cpp
+Y:\FinalProject\UtilitiesTile.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'
+  Generating Code...
+Y:\FinalProject\SpecialCard.cpp(1,1): error C1033: cannot open program database 'Y:\FinalProject\FinalProject\x64\Debug\vc143.pdb'

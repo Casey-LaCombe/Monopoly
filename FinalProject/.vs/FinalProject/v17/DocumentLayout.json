@@ -1,0 +1,509 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\FinalProjectMonopolyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:FinalProjectMonopolyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\UtilitiesTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:UtilitiesTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\TitleDeed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:TitleDeed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\TaxTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:TaxTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Street.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Street.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\SpecialCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:SpecialCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Railroad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Railroad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\CornerTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:CornerTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\CardTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:CardTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\MoneyCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:MoneyCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\MoveCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:MoveCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\AlternateMoveCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:AlternateMoveCard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\MoveCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:MoveCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\AlternateMoveCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:AlternateMoveCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\SpecialCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:SpecialCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\MoneyCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:MoneyCard.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Card.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Card.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\CardTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:CardTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Railroad.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Railroad.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\UtilitiesTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:UtilitiesTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\TaxTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:TaxTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\TitleDeed.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:TitleDeed.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Street.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Street.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\CornerTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:CornerTile.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|Y:\\FinalProject\\User.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EDA0F1C3-80A4-4E16-AC22-E1DFFA29EA93}|FinalProject.vcxproj|solutionrelative:User.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\xstring",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T04:19:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\include\\xstring",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2022-12-19T03:25:51.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoneyCard.h",
+              "DocumentMoniker": "Y:\\FinalProject\\MoneyCard.h",
+              "RelativeDocumentMoniker": "MoneyCard.h",
+              "ToolTip": "Y:\\FinalProject\\MoneyCard.h",
+              "RelativeToolTip": "MoneyCard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlternateMoveCard.h",
+              "DocumentMoniker": "Y:\\FinalProject\\AlternateMoveCard.h",
+              "RelativeDocumentMoniker": "AlternateMoveCard.h",
+              "ToolTip": "Y:\\FinalProject\\AlternateMoveCard.h",
+              "RelativeToolTip": "AlternateMoveCard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:58.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlternateMoveCard.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\AlternateMoveCard.cpp",
+              "RelativeDocumentMoniker": "AlternateMoveCard.cpp",
+              "ToolTip": "Y:\\FinalProject\\AlternateMoveCard.cpp",
+              "RelativeToolTip": "AlternateMoveCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:19:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalProjectMonopolyApp.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\FinalProjectMonopolyApp.cpp",
+              "RelativeDocumentMoniker": "FinalProjectMonopolyApp.cpp",
+              "ToolTip": "Y:\\FinalProject\\FinalProjectMonopolyApp.cpp",
+              "RelativeToolTip": "FinalProjectMonopolyApp.cpp",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAAAOkCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:19:58.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardTile.h",
+              "DocumentMoniker": "Y:\\FinalProject\\CardTile.h",
+              "RelativeDocumentMoniker": "CardTile.h",
+              "ToolTip": "Y:\\FinalProject\\CardTile.h",
+              "RelativeToolTip": "CardTile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:58.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CornerTile.h",
+              "DocumentMoniker": "Y:\\FinalProject\\CornerTile.h",
+              "RelativeDocumentMoniker": "CornerTile.h",
+              "ToolTip": "Y:\\FinalProject\\CornerTile.h",
+              "RelativeToolTip": "CornerTile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Card.h",
+              "DocumentMoniker": "Y:\\FinalProject\\Card.h",
+              "RelativeDocumentMoniker": "Card.h",
+              "ToolTip": "Y:\\FinalProject\\Card.h",
+              "RelativeToolTip": "Card.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:59.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoveCard.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\MoveCard.cpp",
+              "RelativeDocumentMoniker": "MoveCard.cpp",
+              "ToolTip": "Y:\\FinalProject\\MoveCard.cpp",
+              "RelativeToolTip": "MoveCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:19:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecialCard.h",
+              "DocumentMoniker": "Y:\\FinalProject\\SpecialCard.h",
+              "RelativeDocumentMoniker": "SpecialCard.h",
+              "ToolTip": "Y:\\FinalProject\\SpecialCard.h",
+              "RelativeToolTip": "SpecialCard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MoveCard.h",
+              "DocumentMoniker": "Y:\\FinalProject\\MoveCard.h",
+              "RelativeDocumentMoniker": "MoveCard.h",
+              "ToolTip": "Y:\\FinalProject\\MoveCard.h",
+              "RelativeToolTip": "MoveCard.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Railroad.h",
+              "DocumentMoniker": "Y:\\FinalProject\\Railroad.h",
+              "RelativeDocumentMoniker": "Railroad.h",
+              "ToolTip": "Y:\\FinalProject\\Railroad.h",
+              "RelativeToolTip": "Railroad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:19:59.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Street.h",
+              "DocumentMoniker": "Y:\\FinalProject\\Street.h",
+              "RelativeDocumentMoniker": "Street.h",
+              "ToolTip": "Y:\\FinalProject\\Street.h",
+              "RelativeToolTip": "Street.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaxTile.h",
+              "DocumentMoniker": "Y:\\FinalProject\\TaxTile.h",
+              "RelativeDocumentMoniker": "TaxTile.h",
+              "ToolTip": "Y:\\FinalProject\\TaxTile.h",
+              "RelativeToolTip": "TaxTile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tile.h",
+              "DocumentMoniker": "Y:\\FinalProject\\Tile.h",
+              "RelativeDocumentMoniker": "Tile.h",
+              "ToolTip": "Y:\\FinalProject\\Tile.h",
+              "RelativeToolTip": "Tile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TitleDeed.h",
+              "DocumentMoniker": "Y:\\FinalProject\\TitleDeed.h",
+              "RelativeDocumentMoniker": "TitleDeed.h",
+              "ToolTip": "Y:\\FinalProject\\TitleDeed.h",
+              "RelativeToolTip": "TitleDeed.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.h",
+              "DocumentMoniker": "Y:\\FinalProject\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "Y:\\FinalProject\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilitiesTile.h",
+              "DocumentMoniker": "Y:\\FinalProject\\UtilitiesTile.h",
+              "RelativeDocumentMoniker": "UtilitiesTile.h",
+              "ToolTip": "Y:\\FinalProject\\UtilitiesTile.h",
+              "RelativeToolTip": "UtilitiesTile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T04:20:00.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpecialCard.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\SpecialCard.cpp",
+              "RelativeDocumentMoniker": "SpecialCard.cpp",
+              "ToolTip": "Y:\\FinalProject\\SpecialCard.cpp",
+              "RelativeToolTip": "SpecialCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MoneyCard.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\MoneyCard.cpp",
+              "RelativeDocumentMoniker": "MoneyCard.cpp",
+              "ToolTip": "Y:\\FinalProject\\MoneyCard.cpp",
+              "RelativeToolTip": "MoneyCard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Railroad.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\Railroad.cpp",
+              "RelativeDocumentMoniker": "Railroad.cpp",
+              "ToolTip": "Y:\\FinalProject\\Railroad.cpp",
+              "RelativeToolTip": "Railroad.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CardTile.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\CardTile.cpp",
+              "RelativeDocumentMoniker": "CardTile.cpp",
+              "ToolTip": "Y:\\FinalProject\\CardTile.cpp",
+              "RelativeToolTip": "CardTile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UtilitiesTile.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\UtilitiesTile.cpp",
+              "RelativeDocumentMoniker": "UtilitiesTile.cpp",
+              "ToolTip": "Y:\\FinalProject\\UtilitiesTile.cpp",
+              "RelativeToolTip": "UtilitiesTile.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\Tile.cpp",
+              "RelativeDocumentMoniker": "Tile.cpp",
+              "ToolTip": "Y:\\FinalProject\\Tile.cpp",
+              "RelativeToolTip": "Tile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:01.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaxTile.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\TaxTile.cpp",
+              "RelativeDocumentMoniker": "TaxTile.cpp",
+              "ToolTip": "Y:\\FinalProject\\TaxTile.cpp",
+              "RelativeToolTip": "TaxTile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Card.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\Card.cpp",
+              "RelativeDocumentMoniker": "Card.cpp",
+              "ToolTip": "Y:\\FinalProject\\Card.cpp",
+              "RelativeToolTip": "Card.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:02.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TitleDeed.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\TitleDeed.cpp",
+              "RelativeDocumentMoniker": "TitleDeed.cpp",
+              "ToolTip": "Y:\\FinalProject\\TitleDeed.cpp",
+              "RelativeToolTip": "TitleDeed.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:02.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Street.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\Street.cpp",
+              "RelativeDocumentMoniker": "Street.cpp",
+              "ToolTip": "Y:\\FinalProject\\Street.cpp",
+              "RelativeToolTip": "Street.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CornerTile.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\CornerTile.cpp",
+              "RelativeDocumentMoniker": "CornerTile.cpp",
+              "ToolTip": "Y:\\FinalProject\\CornerTile.cpp",
+              "RelativeToolTip": "CornerTile.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cpp",
+              "DocumentMoniker": "Y:\\FinalProject\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "Y:\\FinalProject\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T04:20:03.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
