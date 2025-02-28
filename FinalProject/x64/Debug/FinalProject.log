@@ -1,18 +1,1 @@
-﻿  AlternateMoveCard.cpp
-  Card.cpp
-  MoneyCard.cpp
-  MoveCard.cpp
-  SpecialCard.cpp
-  Tile.cpp
-  CardTile.cpp
-  CornerTile.cpp
-  FinalProjectMonopolyApp.cpp
-C:\Users\casey\source\repos\FinalProject\FinalProjectMonopolyApp.cpp(1665,120): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
-  Railroad.cpp
-  Street.cpp
-  TaxTile.cpp
-  TitleDeed.cpp
-  User.cpp
-  UtilitiesTile.cpp
-  Generating Code...
-  FinalProject.vcxproj -> C:\Users\casey\source\repos\FinalProject\x64\Debug\FinalProject.exe
+﻿  FinalProject.vcxproj -> C:\Users\casey\source\repos\Monopoly\FinalProject\x64\Debug\FinalProject.exe
